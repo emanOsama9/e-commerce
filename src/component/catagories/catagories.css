@@ -1,0 +1,19 @@
+.img-catagories img:hover {
+  transform: scale(1.2);
+  transition: all 500ms;
+   
+ }
+  
+ img{
+    height: 250px !important;
+ } 
+
+figcaption{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    color: deeppink;
+}
+ @media (max-width: 768px) {
+    img {
+     height: 150px !important;
+    }
+  }
