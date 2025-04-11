@@ -13,8 +13,9 @@ export function Home (){
       <div className=" position-relative " >
        <div className="video-container d-flex align-items-center ">
        <video autoPlay loop muted className="background-video">
-        <source src="/istockphoto-1305498256-640_adpp_is (1).mp4" type="video/mp4" />
-        Your browser does not support the video tag.
+       <source src="/e-commerce/video.mp4" type="video/mp4" />
+
+         Your browser does not support the video tag.
       </video>
        <div className="content m-auto w-100 ">
         <h1 className="text-white text-center "> 
@@ -38,9 +39,10 @@ export function Home (){
         <div className="d-flex justify-content-around">
            
             <div>
-          <video autoPlay loop muted className="w-100 px-5">
-        <source src="/6c5311f4b24d4a17837d57bc7b10eea4.HD-1080p-7.2Mbps-23180390 (1).mp4" type="video/mp4" />
-             </video>
+            <video autoPlay loop muted className="w-100 px-5">
+  <source src="/e-commerce/6c5311f4b24d4a17837d57bc7b10eea4.HD-1080p-7.2Mbps-23180390 (1).mp4" type="video/mp4" />
+</video>
+
             </div>
 
 

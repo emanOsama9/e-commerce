@@ -25,7 +25,7 @@ useEffect(function(){
                   
              <Link to={`/catagories-details/${beauty}`}>
             <figure>
-                    <img src="1.png" className="w-100"/>
+                    <img src="/e-commerce/1.png" className="w-100"/>
                <figcaption>
                     <h1 className="text-center">Beauty</h1>
                 </figcaption>
@@ -34,7 +34,7 @@ useEffect(function(){
             </Link>
             <Link to={`/catagories-details/${furniture}`}>
             <figure>
-                    <img src="3 (1).png" className="w-100"/>
+                    <img src="/e-commerce/3 (1).png" className="w-100"/>
                <figcaption>
                     <h1 className="text-center">furniture</h1>
                 </figcaption>
@@ -44,7 +44,7 @@ useEffect(function(){
             <Link to={`/catagories-details/${fragrances}`}>
 
              <figure>
-                    <img src="3.png" className="w-100"/>
+                    <img src="/e-commerce/3.png" className="w-100"/>
                <figcaption>
                     <h1 className="text-center">fragrances</h1>
                 </figcaption>
@@ -54,7 +54,7 @@ useEffect(function(){
             <Link to={`/catagories-details/${groceries}`}>
 
            <figure>
-                    <img src="1 (1).png" className="w-100"/>
+                    <img src="/e-commerce/1 (1).png" className="w-100"/>
                <figcaption>
                     <h1 className="text-center">groceries</h1>
                 </figcaption>
